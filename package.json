@@ -1,0 +1,26 @@
+{
+  "name": "meeples-connector",
+  "version": "1.0.0",
+  "description": "project for bsuir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinaPleskach/Meeple-Connector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarinaPleskach/Meeple-Connector/issues"
+  },
+  "homepage": "https://github.com/KarinaPleskach/Meeple-Connector#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "session-file-store": "^1.4.0"
+  }
+}
